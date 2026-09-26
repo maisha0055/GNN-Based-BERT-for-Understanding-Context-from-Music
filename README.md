@@ -1,12 +1,5 @@
 # GNN-BERT Music Context Understanding
 
-CSE425 Neural Networks (Section 02) - BRAC University
-
-**Author**
-
-| Name | Student ID |
-|------|------------|
-| Jannatul Bushra Maisha | 21301498 |
 
 This project implements a hybrid DistilBERT + GraphSAGE model for music context understanding: multi-label tagging, genre classification, multimodal fusion, and caption-audio retrieval (MusicCaps).
 
